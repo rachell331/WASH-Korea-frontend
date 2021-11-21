@@ -19,7 +19,7 @@
 - 개발 인원 : 프론트엔드 3명, 백엔드 2명
 - 팀원 : 권은경, 박보라, 석예주, 이수경, 허규빈
 - [프론트 github 링크](https://github.com/wecode-bootcamp-korea/26-1st-WASH-Korea-frontend)
-- [백 github 링크](https://github.com/wecode-bootcamp-korea/26-1st-WASH-Korea-backend)
+- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/26-1st-WASH-Korea-backend)
 
 <br>
 
